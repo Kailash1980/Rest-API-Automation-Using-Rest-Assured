@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="2533" started-at="2019-11-22T08:49:07Z" finished-at="2019-11-22T08:49:10Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2533" started-at="2019-11-22T08:49:07Z" finished-at="2019-11-22T08:49:10Z">
+      <class name="com.RestAPI.com.canvas.RestAPI.JiraApiCreateEditDeleteBugTest">
+        <test-method status="PASS" signature="createBug()[pri:0, instance:com.RestAPI.com.canvas.RestAPI.JiraApiCreateEditDeleteBugTest@1554909b]" name="createBug" duration-ms="319" started-at="2019-11-22T08:49:09Z" finished-at="2019-11-22T08:49:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBug -->
+      </class> <!-- com.RestAPI.com.canvas.RestAPI.JiraApiCreateEditDeleteBugTest -->
+      <class name="com.RestAPI.com.canvas.RestAPI.CreateAndDeleteResposeTest">
+        <test-method status="PASS" signature="getdData()[pri:0, instance:com.RestAPI.com.canvas.RestAPI.CreateAndDeleteResposeTest@6108b2d7]" name="getdData" is-config="true" duration-ms="17" started-at="2019-11-22T08:49:07Z" finished-at="2019-11-22T08:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdData -->
+        <test-method status="PASS" signature="getdData()[pri:0, instance:com.RestAPI.com.canvas.RestAPI.JiraApiCreateEditDeleteBugTest@1554909b]" name="getdData" is-config="true" duration-ms="0" started-at="2019-11-22T08:49:07Z" finished-at="2019-11-22T08:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getdData -->
+        <test-method status="PASS" signature="testApi_1()[pri:0, instance:com.RestAPI.com.canvas.RestAPI.CreateAndDeleteResposeTest@6108b2d7]" name="testApi_1" duration-ms="2169" started-at="2019-11-22T08:49:07Z" finished-at="2019-11-22T08:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApi_1 -->
+      </class> <!-- com.RestAPI.com.canvas.RestAPI.CreateAndDeleteResposeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

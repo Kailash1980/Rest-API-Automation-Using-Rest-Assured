@@ -1,0 +1,68 @@
+{
+  "T01": {
+    "fields": {
+      "project": {
+        "key": "KJ"
+      },
+      "summary": "This is my First defect",
+      "description": "Kailash is creating first defect through REST Assured",
+      "issuetype": {
+        "name": "Bug"
+      },
+      "assignee": {
+        "name": "kailashpathak"
+      },
+      "reporter": {
+        "name": "kailashpathak"
+      },
+      "labels": [
+        "bugfix",
+        "blitz_test"
+      ]
+    }
+  },
+  "T02": {
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget venenatis elit. Duis eu justo eget augue iaculis fermentum. Sed semper quam laoreet nisi egestas at posuere augue semper.",
+    "visibility": {
+      "type": "role",
+      "value": "Administrators"
+    }
+  },
+  "T03": {
+    "name": "This is my First Component 2",
+    "description": "New Component 2",
+    "leadUserName": "kailashpathak",
+    "assigneeType": "PROJECT_LEAD",
+    "isAssigneeTypeValid": false,
+    "project": "KJ"
+},
+"T04": {
+  "name": "Kp Component 1005557546541054451",
+  "description": "This is a JIRA componen545t",
+  "leadUserName": "kailashpathak",
+  "assigneeType": "PROJECT_LEAD",
+  "isAssigneeTypeValid": false,
+  "project": "KJ"
+},
+"T05": {
+    "fields": {
+      "project": {
+        "key": "KJ"
+      },
+      "summary": "This Is updated summary Defect This is My Second defect",
+      "description": "This is updated description creating Second defect through REST Assured",
+      "issuetype": {
+        "name": "Bug"
+      },
+      "assignee": {
+        "name": "kailashpathak"
+      },
+      "reporter": {
+        "name": "kailashpathak"
+      },
+       "issuetype": {
+        "name": "Story"
+      },
+  }
+  }
+  }

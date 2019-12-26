@@ -1,0 +1,4 @@
+com\RestAPI\com\canvas\RestAPI\JiraApiCreateEditDeleteBugTest.class
+com\RestAPI\com\canvas\RestAPI\CreateAndDeleteResposeTest.class
+com\RestAPI\com\canvas\RestAPI\RestAPIPracticsTest.class
+com\RestAPI\com\canvas\RestAPI\FindCompleteDataTest.class
